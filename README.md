@@ -7,6 +7,6 @@ This project is a recipes page.
 
 These recipes are solely mine, that is, I cook them right now as a college student sometimes.
 
-Hope you enjjoy trying them out!
+Hope you enjoy trying them out!
 
 Prashant
